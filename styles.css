@@ -1,7 +1,4 @@
-h1 {
-    font-family: "Cormorant", serif;
-}
-p {
+h1, p {
     font-family: "Cormorant", serif;
 }
 .hero {
