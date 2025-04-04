@@ -1,0 +1,13 @@
+h1 {
+    font-family: "Cormorant", serif;
+}
+p {
+    font-family: "Cormorant", serif;
+}
+.hero {
+    background-image: url('./images/Hero.PNG'); /* Replace with your image path */
+    height: 100vh; /* Set height to 100% of the viewport height */
+    color: white;
+}
+
+  
