@@ -1,8 +1,10 @@
-h1, p {
-    font-family: "Cormorant", serif;
-}
+
 .heading {
     text-shadow: 2px 2px 4px #000000;
+    font-family: "Cormorant", serif;
+}
+.about-heading {
+    font-family: "Cormorant", serif;
 }
 .hero {
     background-image: url('./images/Hero.PNG'); /* Replace with your image path */
@@ -12,5 +14,8 @@ h1, p {
 
 .about {
     background-color: #5c6d4b;
+}
+.services {
+    background-color: #f1f1e9; 
 }
   
