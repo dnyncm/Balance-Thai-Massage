@@ -1,6 +1,9 @@
 h1, p {
     font-family: "Cormorant", serif;
 }
+.heading {
+    text-shadow: 2px 2px 4px #000000;
+}
 .hero {
     background-image: url('./images/Hero.PNG'); /* Replace with your image path */
     height: 100vh; /* Set height to 100% of the viewport height */
