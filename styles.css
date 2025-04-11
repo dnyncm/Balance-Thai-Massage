@@ -7,8 +7,8 @@
     font-family: "Cormorant", serif;
 }
 .hero {
-    background-image: url('./images/Hero.PNG'); /* Replace with your image path */
-    height: 100vh; /* Set height to 100% of the viewport height */
+    background-image: url('./images/Hero.PNG'); 
+    height: 100vh; 
     color: white;
 }
 
@@ -17,5 +17,9 @@
 }
 .services {
     background-color: #e8dcc3; 
+}
+
+.greenText {
+    color: #285739;
 }
   
