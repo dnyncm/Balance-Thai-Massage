@@ -1,1 +1,1 @@
-Creating a website for May using HTML, CSS, and JS. Use bottstrap for CSS.
+Creating a website for May using HTML, CSS, and JS. Use bottstrap for CSS. Will figure booking page later.
